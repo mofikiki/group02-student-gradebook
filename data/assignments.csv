@@ -1,0 +1,5 @@
+assignment_id,name,max_points,weight,type
+A1,Quiz 1,20,0.1,quiz
+A2,Homework 1,50,0.2,homework
+A3,Midterm Exam,100,0.3,exam
+A4,Project,100,0.4,project
